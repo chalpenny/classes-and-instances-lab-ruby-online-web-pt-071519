@@ -1,4 +1,5 @@
 
 class Person
-  person = "adele_goldberg", "alan_kay"
+  adele_goldberg.person = Person.new
+  alan_kay = Person.new
 end
